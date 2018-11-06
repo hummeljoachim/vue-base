@@ -1,6 +1,6 @@
 # Vue Base Setup
-[![Build Status](https://travis-ci.org/v2hummel/vue-base.svg?branch=master)](https://travis-ci.org/v2hummel/vuetest)
-[![Coverage Status](https://coveralls.io/repos/github/v2hummel/vuetest/badge.svg)](https://coveralls.io/github/v2hummel/vuetest)
+[![Build Status](https://travis-ci.org/hummeljoachim/vue-base.svg?branch=master)](https://travis-ci.org/hummeljoachim/vue-base)
+[![Coverage Status](https://coveralls.io/repos/github/hummeljoachim/vue-base/badge.svg?branch=master)](https://coveralls.io/github/hummeljoachim/vue-base?branch=master)
 
 ### Project setup
 ```
